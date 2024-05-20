@@ -1,1 +1,1 @@
-# SC-601-Programaci-n-avanzada
+# SC-601-Programacion-avanzada
